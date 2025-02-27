@@ -1,0 +1,6 @@
+@DbdRandomazoAPI_HostAddress = http://localhost:5074
+
+GET {{DbdRandomazoAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
